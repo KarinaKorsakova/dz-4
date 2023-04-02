@@ -4,7 +4,7 @@ public class Main {
 
        PrintClass printClass = new PrintClass();
 
-       PrintClass.print();
+       printClass.print();
 
 
     }
